@@ -1,0 +1,17 @@
+strong{
+   color: yellow;
+}
+
+h1{
+	text-align: center;
+	font-family: "Times New Roman";
+	color: orange;
+}
+
+body{
+	background-color: grey;
+}
+
+a{
+	color: red;
+}
